@@ -1,0 +1,1 @@
+# The-Schwarzschild-Universe-Hypothesis-A-Theoretical-Assessment-of-Black-Hole-Cosmology-
