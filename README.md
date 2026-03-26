@@ -1,7 +1,7 @@
 # The Schwarzschild Universe Hypothesis: A Theoretical Assessment of Black Hole Cosmology
 
 [![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.17458.16329-blue)](https://doi.org/10.13140/RG.2.2.17458.16329) 
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.svg)](https://zenodo.org/records/19238717)
+[![Zenodo](https://zenodo.org/badge/zenodo.svg)](https://zenodo.org/records/19238717)
 [![OSF](https://img.shields.io/badge/OSF-blue)](https://osf.io/preprints/thesiscommons/7akb9_v1)
 [![Academia.edu](https://img.shields.io/badge/academia.edu-blue)](https://www.academia.edu/165325463/The_Schwarzschild_Universe_Hypothesis_A_Theoretical_Assessment_of_Black_Hole_Cosmology)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
