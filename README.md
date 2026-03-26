@@ -35,8 +35,8 @@ If you reference this work, build upon these theoretical frameworks, or use the 
   title={The Schwarzschild Universe Hypothesis: A Theoretical Assessment of Black Hole Cosmology},
   author={G, Samuelson},
   year={2026},
-  publisher={Zenodo / GitHub},
-  doi={10.5281/zenodo.XXXXXXX}
+  publisher={ResearchGate / GitHub},
+  doi={10.13140/RG.2.2.17458.16329}
 } 
 
 ## License
