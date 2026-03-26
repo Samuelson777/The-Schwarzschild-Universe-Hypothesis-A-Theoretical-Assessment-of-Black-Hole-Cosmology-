@@ -27,6 +27,9 @@ Current observational data neither definitively prove nor disprove the Black Hol
 
 However, due to limitations in observational verification—specifically regarding the uniform temperature of the Cosmic Microwave Background (CMB) and a lack of distinct falsifiability—the standard ΛCDM model remains the consensus framework. Continued exploration of the Schwarzschild Universe is vital, as it forces theoretical physics to evolve, probing the ultimate unification of quantum mechanics and gravitational physics.
 
+## License
+This work is distributed under the **Creative Commons Attribution 4.0 International License.** You are free to share and adapt the material, provided appropriate credit is given.
+
 ## How to Cite
 If you reference this work, build upon these theoretical frameworks, or use the materials provided in this repository, please cite it as follows:
 
@@ -38,6 +41,3 @@ If you reference this work, build upon these theoretical frameworks, or use the 
   publisher={ResearchGate / GitHub},
   doi={10.13140/RG.2.2.17458.16329}
 } 
-
-## License
-This work is distributed under the **Creative Commons Attribution 4.0 International License.** You are free to share and adapt the material, provided appropriate credit is given.
